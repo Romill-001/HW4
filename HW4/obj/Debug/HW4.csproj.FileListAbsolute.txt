@@ -1,0 +1,8 @@
+C:\Users\илья\source\repos\HW4\HW4\obj\Debug\HW4.csproj.AssemblyReference.cache
+C:\Users\илья\source\repos\HW4\HW4\obj\Debug\HW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\илья\source\repos\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\илья\source\repos\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\илья\source\repos\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\илья\source\repos\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\илья\source\repos\HW4\HW4\obj\Debug\HW4.pdb
